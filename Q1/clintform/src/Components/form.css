@@ -1,0 +1,16 @@
+.mainContainer{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.Username{
+    margin-bottom: 10px;
+    align-items: center;
+}
+.Username>input{
+    justify-content: center;
+}
+.submitbtn{
+    color: blue;
+    margin-top: 10px;
+}
